@@ -1,23 +1,23 @@
 @font-face {
     font-family:'boogybrut';
-    src: url('../web/BoogyBrut.ttf') format('truetype'),
-    url('../web/BoogyBrut.otf') format('.otf');
+    src: url('../web/fonts/BoogyBrut.ttf') format('truetype'),
+    url('../web/fonts/BoogyBrut.otf') format('.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'neuehaaslight';
-    src: url('../web/NeueHaasDisplay-Light.ttf') format('truetype'),
-    url('../web/NeueHaasDisplay-Light.otf') format('.otf');
+    src: url('../fonts/NeueHaasDisplay-Light.ttf') format('truetype'),
+    url('../fonts/NeueHaasDisplay-Light.otf') format('.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'neuehaaslightitalic';
-    src: url('../fonts/NeueHaasDisplay-LightItalic.ttf') format('truetype'),
-    url('../fonts/NeueHaasDisplay-LightItalic.otf') format('.otf');
+    src: url('../web/fonts/NeueHaasDisplay-LightItalic.ttf') format('truetype'),
+    url('../web/fonts/NeueHaasDisplay-LightItalic.otf') format('.otf');
     font-weight: normal;
     font-style: normal;
 }
