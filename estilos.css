@@ -63,14 +63,12 @@ h2 {
 
 
 /*efeito highlight*/
-<style>
 body { background-color:black; }
 .highlight { 
     background-color:white;
     background: linear-gradient(to top, white 85%, transparent 50%);
  }
 h1 { background-color: black; }
-</style>
 
 
 /*links*/
